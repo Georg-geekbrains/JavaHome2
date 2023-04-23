@@ -25,7 +25,7 @@ public class Main {
         System.out.println("Sum of prime numbers in the sequence: " + sumOfPrimes);
     }
 
-    // helper method to check if a number is prime
+
     public static boolean isPrime(int number) {
         if (number <= 1) {
             return false;
